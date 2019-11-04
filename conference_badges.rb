@@ -20,3 +20,4 @@ def assign_rooms(array)
     assigned_rooms[counter] = "Hello, #{names}! You'll be assigned to room " + counter+1 + " !"
     counter+=1
 end
+end
