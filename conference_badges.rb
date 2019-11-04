@@ -29,4 +29,5 @@ def printer(array)
   printer_array = []
   printer_array = batch_badge_creator(array)
   puts printer_array[0]
+  puts printer_array[1]
 end
