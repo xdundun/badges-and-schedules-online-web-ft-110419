@@ -27,5 +27,5 @@ end
 
 def printer(array)
   printer_array = []
-  batch_badge_creator(array)
+  printer_array = batch_badge_creator(array)
 end
